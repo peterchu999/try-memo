@@ -22,7 +22,7 @@ class App extends Component<AppProps, AppState> {
     return (
       <div>
         <LearnRef name="Learn Ref" />
-        {/* <LearnMemo name="Learn Memo" /> */}
+        <LearnMemo name="Learn Memo" />
       </div>
     );
   }
